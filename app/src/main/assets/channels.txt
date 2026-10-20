@@ -1,0 +1,3 @@
+# Generated core IPTV channel list
+# UTF-8; channel names and direct stream URLs only
+演示频道,https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
